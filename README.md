@@ -2,7 +2,7 @@ Task Management System
 Overview
 
 This is a full-stack Task Management System developed using Spring Boot for the backend and React.js for the frontend.
-The application allows users to register, log in, and manage their personal tasks securely.
+The application allows users to register, log in, and manage their personal tasks securely
 Each user can create, update, view, and delete only their own tasks.
 
 The project uses session-based authentication (no JWT) with Spring Security.
