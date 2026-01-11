@@ -29,4 +29,4 @@ Tech Stack
     Axios
     HTML
 
-Inline CSS styling
+
